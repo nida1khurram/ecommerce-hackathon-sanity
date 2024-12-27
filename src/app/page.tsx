@@ -14,7 +14,6 @@ import BlogPosts from "@/components/landingPage/BlogPosts";
 
 
 
-
 import Faq from "./faq/page";
 
 
